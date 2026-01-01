@@ -5,14 +5,14 @@
 
 <hr>
 
-<h2>Overview</h2>
+<h2>🎯 Overview</h2>
 <p>
   This project is a basic console-based TicTacToe game written in Java. 
   It demonstrates fundamental programming concepts such as arrays, loops, 
   conditionals, and user input handling.
 </p>
 
-<h2>Features</h2>
+<h2>✨ Features</h2>
 <ul>
   <li>Two-player mode (Player X and Player O)</li>
   <li>3×3 grid gameplay</li>
@@ -20,7 +20,7 @@
   <li>Option to restart the game</li>
 </ul>
 
-<h2>Getting Started</h2>
+<h2>🚀 Getting Started</h2>
 <p>Clone the repository and compile the Java source files:</p>
 <pre>
 git clone https://github.com/karxoo/TicTacToeGame.git
@@ -32,7 +32,7 @@ javac TicTacToe.java
 java TicTacToe
 </pre>
 
-<h2>How to Play</h2>
+<h2>📌 How to Play</h2>
 <ol>
   <li>Player X starts first.</li>
   <li>Players take turns entering a row and column number (0–2).</li>
@@ -40,7 +40,7 @@ java TicTacToe
   <li>If all cells are filled with no winner, the game ends in a draw.</li>
 </ol>
 
-<h2>Example Gameplay</h2>
+<h2>🧠 Example Gameplay</h2>
 <pre>
 Current board:
 X | O | X
@@ -52,7 +52,7 @@ X |   |
 Player X wins!
 </pre>
 
-<h2>Project Structure</h2>
+<h2>⚙️ Project Structure</h2>
 <pre>
 TicTacToe.java   # Main game logic and entry point
 </pre>
